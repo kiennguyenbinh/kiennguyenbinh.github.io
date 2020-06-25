@@ -3,10 +3,10 @@
 # Site wide configuration
 ####################################
 #
-title: Leonids
+title: VnDragon Blogs 
 email:
 description: A simple and awesome blog theme powered by jekyll.
-url: # the base hostname & protocol for your site
+url: 'kiennguyenbinh.github.io'
 keywords: ["blog", "jekyll"]
 
 #
@@ -33,7 +33,7 @@ kramdown:
 ####################################
 #
 owner:
-  name: Leonids
+  name: VnDragon
   avatar: leonids-logo.png
   job: "A jekyll theme"
   bio: "A simple and awesome blog theme powered by jekyll."
@@ -48,10 +48,10 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
-  gitlab: #username
+  github: kiennguyenbinh
+  gitlab: vndragon
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
+  linkedin: kiennguyenbinh
   skype: #username
   xing: #username
   instagram: #username
@@ -68,4 +68,4 @@ owner:
   500px: #username
   codepen: #username
   reddit: #username
-  telegram: #username
+  telegram: VnDragon
